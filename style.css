@@ -1,0 +1,8 @@
+body {margin:0; padding:0; background:url(bg.png) no-repeat right center; background-size:100% 100%; background-image-resize:6; font:24px/1.3em centurygothic, sans-serif; color:#0d5394}
+
+.container {position:absolute; left:70px; top:162px; width:720px}
+.name {margin:1.5em 0 0 0; text-align:center; text-decoration:underline}
+.text {margin:5px 0 0 0; text-align:justify}
+.text span {color:#ef1900}
+.date {position:absolute; left:70px; top:537px; font-size:22px; line-height:1.3em}
+.number {position:absolute; left:370px; top:584px}
